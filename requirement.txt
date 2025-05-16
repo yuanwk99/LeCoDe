@@ -1,0 +1,6 @@
+rouge_chinese
+jieba
+openai
+pandas
+numpy
+dashscope

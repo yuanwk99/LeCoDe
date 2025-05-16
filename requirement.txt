@@ -1,4 +1,5 @@
 rouge_chinese
+bert-score
 jieba
 openai
 pandas
